@@ -1,0 +1,11 @@
+{
+  "name": "default",
+  "default_attributes": {
+    "build-essential": {
+      "compile_time": true
+    }
+  },
+  "run_list": [
+    "recipe[build-essential::default]"
+  ]
+}

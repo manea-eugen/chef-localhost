@@ -1,0 +1,7 @@
+DEPENDENCIES
+  apt (~> 2.9.2)
+  build-essential (~> 2.2.4)
+
+GRAPH
+  apt (2.9.2)
+  build-essential (2.2.4)
